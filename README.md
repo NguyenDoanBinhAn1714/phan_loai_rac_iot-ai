@@ -1,1 +1,3 @@
-# phan_loai_rac_iot-ai
+# AI Trash Project
+
+Project structure for ESP32-CAM + YOLOv8 + ESP32 controller.
